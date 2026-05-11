@@ -5,7 +5,7 @@ Este projeto foi desenvolvido como parte de uma atividade prática em sala de au
 
 **Integrantes:**
 *   Sarah Mendonça
-*   Marcelo Barbosa
+*   Marcelo Barbosa https://www.tinkercad.com/things/gbB4acb0QdZ-projeto-arduino-marcelo-barbosa?sharecode=b3Hc74O7knaGywd0VSb7TpqA4u30vhykwxu0oGJEOvA
 *   Eduardo Farias
 
 ---
